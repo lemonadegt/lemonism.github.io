@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: My Portfolio
-email: your-email@domain.com
+title: Lemonism Territory
+email: lemonadegt@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Jannik Richter, jannik811@gmail.com
+
 baseurl: "/jekyll-slender-template" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://lemonism.net" # the base hostname & protocol for your site
+twitter_username: lemonade
+github_username:  lemonade
 
 # Build settings
 markdown: kramdown
